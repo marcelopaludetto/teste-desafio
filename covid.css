@@ -1,0 +1,130 @@
+body {
+
+	margin: 0 0 0px;
+}
+
+
+header {
+
+	background: #9e0909eb;
+	padding: 20px 0;
+
+}
+
+
+.título {
+
+	text-align: center;
+	font-size: 45px;
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+
+}
+
+.imagem {
+
+	margin: 0 0 0 20px;
+	width: 1310px;
+	height: 390px;
+}
+
+
+.imgcentralizadas {
+
+	margin: 0 0 0 20px;
+	width: 1310px;
+	height: 390px;
+
+}
+
+
+nav li {
+
+	display: inline;
+	margin: 0 0 0 222px;
+
+}
+
+
+nav a {
+
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+	top:400px;
+	right: 0;
+
+}
+
+nav a:hover {
+
+    color: black;
+    text-decoration: underline;
+
+}
+
+#main {
+
+	text-align: center;
+	background: grey
+	
+}
+
+
+div {
+
+	width: 50%;
+	display: inline;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+    justify-content: center;
+
+}
+
+
+h1 {
+
+	text-align: center;
+	font-size: 40px;
+
+}
+
+
+p {
+
+	text-align: left;
+	text-align: start;
+	font-size: 22px;
+
+}
+
+
+.imgtexto4 {
+
+	margin: 0 0 0 20px;
+	width: 1310px;
+	height: 390px;
+
+}
+
+
+.imgfooter {
+
+	text-align: center;
+    background: url("imagem.png");
+    font-weight: bold;
+}
+
+
+.copyright {
+
+	background: black;
+    color: white
+    font-size: 13px;
+    margin: 20px 0 0;
+
+}
